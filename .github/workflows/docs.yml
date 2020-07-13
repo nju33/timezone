@@ -37,7 +37,7 @@ jobs:
       - run: yarn
       - run: yarn ci:gen-src-docs
       - run: |
-          git remote set-url origin https://nju33:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/nju33/logger.git
+          git remote set-url origin https://nju33:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/nju33/timezone.git
 
           git config --local user.email "nju33.ki@gmail.com"
           git config --local user.name "nju33"
