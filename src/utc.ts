@@ -6,7 +6,7 @@
  * @example
  *
  * ```
- * utc(ts).iso8601 === '2020-01-01T00:00:00.000Z'
+ * utc(ts).iso8601 // is '2020-01-01T00:00:00.000Z'
  * ```
  */
 export function utc(
