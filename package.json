@@ -1,5 +1,5 @@
 {
-  "name": "@nju33/template-node-library",
+  "name": "@nju33/timezone",
   "version": "0.0.0",
   "source": "src/index.ts",
   "main": "index.js",
@@ -61,7 +61,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/nju33/template-node-library.git"
+    "url": "ssh://git@github.com/nju33/timezone.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
