@@ -14,4 +14,4 @@
 
 • **AmericaNewYork**: *number* = -FOUR_HOURS
 
-*Defined in [src/timezone/america-new-york.ts:3](https://github.com/nju33/timezone/blob/c9267a7/src/timezone/america-new-york.ts#L3)*
+*Defined in [src/timezone/america-new-york.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/america-new-york.ts#L3)*

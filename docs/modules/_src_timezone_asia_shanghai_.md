@@ -14,4 +14,4 @@
 
 • **AsiaShanghai**: *number* = EIGHT_HOURS
 
-*Defined in [src/timezone/asia-shanghai.ts:3](https://github.com/nju33/timezone/blob/c9267a7/src/timezone/asia-shanghai.ts#L3)*
+*Defined in [src/timezone/asia-shanghai.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-shanghai.ts#L3)*

@@ -9,6 +9,8 @@
 * ["src/constants/hour"](modules/_src_constants_hour_.md)
 * ["src/constants/index"](modules/_src_constants_index_.md)
 * ["src/index"](modules/_src_index_.md)
+* ["src/time"](modules/_src_time_.md)
+* ["src/time.test"](modules/_src_time_test_.md)
 * ["src/timezone/africa-cairo"](modules/_src_timezone_africa_cairo_.md)
 * ["src/timezone/africa-kinshasa"](modules/_src_timezone_africa_kinshasa_.md)
 * ["src/timezone/africa-lagos"](modules/_src_timezone_africa_lagos_.md)

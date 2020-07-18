@@ -14,4 +14,4 @@
 
 • **EuropeMoscow**: *number* = THREE_HOURS
 
-*Defined in [src/timezone/europe-moscow.ts:3](https://github.com/nju33/timezone/blob/c9267a7/src/timezone/europe-moscow.ts#L3)*
+*Defined in [src/timezone/europe-moscow.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/europe-moscow.ts#L3)*

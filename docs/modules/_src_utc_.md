@@ -14,14 +14,14 @@
 
 ▸ **utc**(`ts`: number): *object*
 
-*Defined in [src/utc.ts:12](https://github.com/nju33/timezone/blob/c9267a7/src/utc.ts#L12)*
+*Defined in [src/utc.ts:12](https://github.com/nju33/timezone/blob/84669d2/src/utc.ts#L12)*
 
 Constructor to create an object that handles the UTC
 
 **`example`** 
 
 ```
-utc(ts).iso8601 === '2020-01-01T00:00:00.000Z'
+utc(ts).iso8601 // is '2020-01-01T00:00:00.000Z'
 ```
 
 **Parameters:**

@@ -14,4 +14,4 @@
 
 • **AsiaTehran**: *number* = FOUR_HOURS + THIRTY_MINUTES
 
-*Defined in [src/timezone/asia-tehran.ts:3](https://github.com/nju33/timezone/blob/c9267a7/src/timezone/asia-tehran.ts#L3)*
+*Defined in [src/timezone/asia-tehran.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-tehran.ts#L3)*

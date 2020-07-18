@@ -14,4 +14,4 @@
 
 • **AsiaSeoul**: *number* = NINE_HOURS
 
-*Defined in [src/timezone/asia-seoul.ts:3](https://github.com/nju33/timezone/blob/c9267a7/src/timezone/asia-seoul.ts#L3)*
+*Defined in [src/timezone/asia-seoul.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-seoul.ts#L3)*
