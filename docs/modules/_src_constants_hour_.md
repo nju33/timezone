@@ -30,7 +30,7 @@
 
 • **EIGHT_HOURS**: *number* = 8 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:9](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L9)*
+*Defined in [src/constants/hour.ts:9](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L9)*
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 • **ELEVEN_HOURS**: *number* = 11 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:12](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L12)*
+*Defined in [src/constants/hour.ts:12](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L12)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **FIFTEEN_HOURS**: *number* = 15 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:16](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L16)*
+*Defined in [src/constants/hour.ts:16](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L16)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **FIVE_HOURS**: *number* = 5 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:6](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L6)*
+*Defined in [src/constants/hour.ts:6](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L6)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **FOURTEEN_HOURS**: *number* = 14 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:15](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L15)*
+*Defined in [src/constants/hour.ts:15](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L15)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **FOUR_HOURS**: *number* = 4 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:5](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L5)*
+*Defined in [src/constants/hour.ts:5](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L5)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **NINE_HOURS**: *number* = 9 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:10](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L10)*
+*Defined in [src/constants/hour.ts:10](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L10)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **ONE_HOUR**: *number* = 60 * 60 * 1000
 
-*Defined in [src/constants/hour.ts:1](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L1)*
+*Defined in [src/constants/hour.ts:1](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L1)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **SEVEN_HOURS**: *number* = 7 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:8](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L8)*
+*Defined in [src/constants/hour.ts:8](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L8)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **SIXTEEN_HOURS**: *number* = 16 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:17](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L17)*
+*Defined in [src/constants/hour.ts:17](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L17)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **SIX_HOURS**: *number* = 6 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:7](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L7)*
+*Defined in [src/constants/hour.ts:7](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L7)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **TEN_HOURS**: *number* = 10 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:11](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L11)*
+*Defined in [src/constants/hour.ts:11](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L11)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **THIRTEEN_HOURS**: *number* = 13 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:14](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L14)*
+*Defined in [src/constants/hour.ts:14](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L14)*
 
 ___
 
@@ -134,7 +134,7 @@ ___
 
 • **THIRTY_MINUTES**: *number* = ONE_HOUR / 2
 
-*Defined in [src/constants/hour.ts:2](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L2)*
+*Defined in [src/constants/hour.ts:2](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L2)*
 
 ___
 
@@ -142,7 +142,7 @@ ___
 
 • **THREE_HOURS**: *number* = 3 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:4](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L4)*
+*Defined in [src/constants/hour.ts:4](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L4)*
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 • **TWELVE_HOURS**: *number* = 12 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:13](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L13)*
+*Defined in [src/constants/hour.ts:13](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L13)*
 
 ___
 
@@ -158,4 +158,4 @@ ___
 
 • **TWO_HOURS**: *number* = 2 * ONE_HOUR
 
-*Defined in [src/constants/hour.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/constants/hour.ts#L3)*
+*Defined in [src/constants/hour.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/constants/hour.ts#L3)*

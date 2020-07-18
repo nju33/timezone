@@ -21,7 +21,7 @@
 
 • **ONE_HOUR**: *number* = 60 * ONE_MINUTE
 
-*Defined in [src/time.ts:4](https://github.com/nju33/timezone/blob/84669d2/src/time.ts#L4)*
+*Defined in [src/time.ts:4](https://github.com/nju33/timezone/blob/9c97e60/src/time.ts#L4)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **ONE_MILLISECOND**: *1* = 1
 
-*Defined in [src/time.ts:1](https://github.com/nju33/timezone/blob/84669d2/src/time.ts#L1)*
+*Defined in [src/time.ts:1](https://github.com/nju33/timezone/blob/9c97e60/src/time.ts#L1)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **ONE_MINUTE**: *number* = 60 * ONE_SECOND
 
-*Defined in [src/time.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/time.ts#L3)*
+*Defined in [src/time.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/time.ts#L3)*
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 • **ONE_SECOND**: *number* = 1000 * ONE_MILLISECOND
 
-*Defined in [src/time.ts:2](https://github.com/nju33/timezone/blob/84669d2/src/time.ts#L2)*
+*Defined in [src/time.ts:2](https://github.com/nju33/timezone/blob/9c97e60/src/time.ts#L2)*
 
 ## Functions
 
@@ -53,7 +53,7 @@ ___
 
 ▸ **diffTime**(`endTs`: number, `startTs`: number): *string*
 
-*Defined in [src/time.ts:27](https://github.com/nju33/timezone/blob/84669d2/src/time.ts#L27)*
+*Defined in [src/time.ts:27](https://github.com/nju33/timezone/blob/9c97e60/src/time.ts#L27)*
 
 **`example`** 
 

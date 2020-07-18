@@ -14,4 +14,4 @@
 
 • **AsiaHongKong**: *number* = EIGHT_HOURS
 
-*Defined in [src/timezone/asia-hong-kong.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-hong-kong.ts#L3)*
+*Defined in [src/timezone/asia-hong-kong.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/asia-hong-kong.ts#L3)*

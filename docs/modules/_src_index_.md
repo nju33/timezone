@@ -48,6 +48,7 @@
 * [TWELVE_HOURS](_src_index_.md#twelve_hours)
 * [TWO_HOURS](_src_index_.md#two_hours)
 * [TzNames](_src_index_.md#tznames)
+* [diffTime](_src_index_.md#difftime)
 * [getTzOffset](_src_index_.md#gettzoffset)
 * [utc](_src_index_.md#utc)
 
@@ -302,6 +303,12 @@ ___
 ###  TzNames
 
 • **TzNames**:
+
+___
+
+###  diffTime
+
+• **diffTime**:
 
 ___
 

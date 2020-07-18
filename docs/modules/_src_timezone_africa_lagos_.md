@@ -14,4 +14,4 @@
 
 • **AfricaLagos**: *number* = ONE_HOUR
 
-*Defined in [src/timezone/africa-lagos.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/africa-lagos.ts#L3)*
+*Defined in [src/timezone/africa-lagos.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/africa-lagos.ts#L3)*

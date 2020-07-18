@@ -14,4 +14,4 @@
 
 • **AsiaJakarta**: *number* = SEVEN_HOURS
 
-*Defined in [src/timezone/asia-jakarta.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-jakarta.ts#L3)*
+*Defined in [src/timezone/asia-jakarta.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/asia-jakarta.ts#L3)*

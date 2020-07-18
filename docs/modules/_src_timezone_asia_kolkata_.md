@@ -14,4 +14,4 @@
 
 • **AsiaKolkata**: *number* = FIVE_HOURS + THIRTY_MINUTES
 
-*Defined in [src/timezone/asia-kolkata.ts:3](https://github.com/nju33/timezone/blob/84669d2/src/timezone/asia-kolkata.ts#L3)*
+*Defined in [src/timezone/asia-kolkata.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/asia-kolkata.ts#L3)*
