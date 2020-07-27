@@ -14,4 +14,4 @@
 
 • **AfricaKinshasa**: *number* = ONE_HOUR
 
-*Defined in [src/timezone/africa-kinshasa.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/africa-kinshasa.ts#L3)*
+*Defined in [src/timezone/africa-kinshasa.ts:3](https://github.com/nju33/timezone/blob/f7057aa/src/timezone/africa-kinshasa.ts#L3)*

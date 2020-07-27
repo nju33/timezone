@@ -27,6 +27,7 @@
 * [AsiaTaipei](_src_index_.md#asiataipei)
 * [AsiaTehran](_src_index_.md#asiatehran)
 * [AsiaTokyo](_src_index_.md#asiatokyo)
+* [DiffTimeFormatKinds](_src_index_.md#difftimeformatkinds)
 * [EIGHT_HOURS](_src_index_.md#eight_hours)
 * [ELEVEN_HOURS](_src_index_.md#eleven_hours)
 * [EuropeLondon](_src_index_.md#europelondon)
@@ -48,7 +49,9 @@
 * [TWELVE_HOURS](_src_index_.md#twelve_hours)
 * [TWO_HOURS](_src_index_.md#two_hours)
 * [TzNames](_src_index_.md#tznames)
+* [diffStringTime](_src_index_.md#diffstringtime)
 * [diffTime](_src_index_.md#difftime)
+* [diffTimeFormat](_src_index_.md#difftimeformat)
 * [getTzOffset](_src_index_.md#gettzoffset)
 * [utc](_src_index_.md#utc)
 
@@ -180,6 +183,12 @@ ___
 
 ___
 
+###  DiffTimeFormatKinds
+
+• **DiffTimeFormatKinds**:
+
+___
+
 ###  EIGHT_HOURS
 
 • **EIGHT_HOURS**:
@@ -306,9 +315,21 @@ ___
 
 ___
 
+###  diffStringTime
+
+• **diffStringTime**:
+
+___
+
 ###  diffTime
 
 • **diffTime**:
+
+___
+
+###  diffTimeFormat
+
+• **diffTimeFormat**:
 
 ___
 

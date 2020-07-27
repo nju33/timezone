@@ -14,4 +14,4 @@
 
 • **AsiaTokyo**: *number* = NINE_HOURS
 
-*Defined in [src/timezone/asia-tokyo.ts:3](https://github.com/nju33/timezone/blob/9c97e60/src/timezone/asia-tokyo.ts#L3)*
+*Defined in [src/timezone/asia-tokyo.ts:3](https://github.com/nju33/timezone/blob/f7057aa/src/timezone/asia-tokyo.ts#L3)*
