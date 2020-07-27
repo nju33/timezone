@@ -69,3 +69,51 @@ export function diffTimeFormat(
  * @deprecated Use `diffTimeFormat` instead
  */
 export { diffTimeFormat as diffTime }
+
+export function diffStringTime(
+  end: string,
+  start: string,
+  format: DiffTimeFormatKinds = 'HH:mm:ss.SSS'
+): number {
+  const splittedStart = start.split(/:|\./)
+  const splittedEnd = end.split(/:|\./)
+  const defaultParts = ['00', '00', '00', '000']
+  const margeArray = (array: string[]): string[] => {
+    const cloned = defaultParts
+
+    array.forEach((item, index) => {
+      cloned[index] = item
+    })
+
+    return cloned
+  }
+
+  const mergedStart = margeArray(splittedStart)
+  const normalizedStartTime = `1970-01-01T${mergedStart
+    .slice(0, 3)
+    .join(':')}.${mergedStart[mergedStart.length - 1]}`
+  const startTs = new Date(normalizedStartTime).getTime()
+
+  const mergedEnd = margeArray(splittedEnd)
+  const normalizedEndTime = `1970-01-01T${mergedEnd.slice(0, 3).join(':')}.${
+    mergedStart[mergedStart.length - 1]
+  }`
+  const endTs = new Date(normalizedEndTime).getTime()
+
+  const diffTime = endTs - startTs
+
+  switch (format) {
+    case 'HH': {
+      return Math.floor(diffTime / ONE_HOUR) * ONE_HOUR
+    }
+    case 'HH:mm': {
+      return Math.floor(diffTime / ONE_MINUTE) * ONE_MINUTE
+    }
+    case 'HH:mm:ss': {
+      return Math.floor(diffTime / ONE_SECOND) * ONE_SECOND
+    }
+    case 'HH:mm:ss.SSS': {
+      return Math.floor(diffTime / ONE_MILLISECOND) * ONE_MILLISECOND
+    }
+  }
+}
